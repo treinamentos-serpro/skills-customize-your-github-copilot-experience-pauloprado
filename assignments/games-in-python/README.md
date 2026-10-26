@@ -31,4 +31,4 @@ O programa concluído deve:
 - Solicitar uma letra ao jogador e atualizar o estado do jogo conforme o palpite.
 - Reduzir as tentativas restantes quando o palpite não estiver na palavra.
 - Encerrar quando a palavra for revelada ou não houver mais tentativas incorretas.
-- Exibir uma mensagem indicando vitória ou derrota; em caso de derrota, revelar a palavra escolhida.
+- Exibir uma mensagem indicando vitória ou derrota; em caso de derrota, revelar a palavra escolhida. 
